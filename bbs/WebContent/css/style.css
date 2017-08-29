@@ -1,0 +1,19 @@
+.body{font-family:Tahoma;font-size:12px;background:#F9F9EC;}
+/*whole*/
+.whole{padding-right:2%;}
+/*banner*/
+.banner{padding-right:2%;background:#0F7884;}
+/* .banner img{vertical-align:buttom;} */
+/*border*/
+.border{border-color:#96CDCD;}
+
+/*t1*/
+.t1{padding-right:2%;background:#0F7884;}
+.t1 img{vertical-align:buttom;}
+/*guide*/
+.guide{border-bottom:8px solid #dbecF4;background:#B1D3E0;text-align:left;color:#004c7d;padding:5px 7px 3px 7px;}
+
+/* id */
+#replyTable{bordercolor:#96CDCD;}
+
+/*panel*/
